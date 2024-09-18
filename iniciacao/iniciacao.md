@@ -57,3 +57,10 @@ A fase de aprovação ocorre após a definição inicial do projeto e muitas vez
 **Reuniões de Aprovação**: Reuniões formais para aprovar ou solicitar alterações.
 **Assinatura de Contratos**: Formalização da aprovação através de acordos ou contratos.
 
+
+## Referencias
+
+1. [Fases do gerenciamento de projetos - Atlassian](https://www.atlassian.com/br/work-management/project-management/phases)
+2. [Ciclos de vida do software - DevMedia](https://www.devmedia.com.br/ciclos-de-vida-do-software/21099)
+3. [Ciclo de vida de um sistema - Cronapp](https://blog.cronapp.io/ciclo-de-vida-do-software/#O_que_e_o_ciclo_de_vida_de_um_sistema)
+4. [Como o ciclo de vida de desenvolvimento de software funciona - UbiMinds](https://ubiminds.com/pt-br/como-o-ciclo-de-vida-de-desenvolvimento-de-software-funciona-e-quais-ferramentas-sao-necessarias-em-cada-uma-das-suas-fases/#Quais_sao_as_fases_do_SDLC)
