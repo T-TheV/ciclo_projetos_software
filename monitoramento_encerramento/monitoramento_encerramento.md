@@ -40,3 +40,8 @@ Mesmo que as tarefas do projeto tenham sido concluídas, o encerramento é impor
 
 1. Project-Management.com - Project Closure Phase: A Comprehensive Guide
 2. Atlassian.com - Entendendo as fases da gestão de projeto
+
+## 🔗 Links
+[![Project-Management.com - Project Closure Phase: A Comprehensive Guide](https://project-management.com/project-management-phase-5-closure/
+)]
+[![Atlassian.com - Entendendo as fases da gestão de projeto](https://www.atlassian.com/br/work-management/project-management/phases)]
