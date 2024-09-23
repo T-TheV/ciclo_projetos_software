@@ -2,7 +2,7 @@
 
 ## Ciclo de Vida Projetos de Software
 
-1. **Identificação de Necessidades**  
+1. [**Identificação de Necessidades** ](https://github.com/T-TheV/ciclo_projetos_software/tree/main/iniciacao) 
    A fase inicial do projeto é crucial para entender os requisitos do software.  
    Envolve entrevistas, workshops e análise de documentos para levantar expectativas e necessidades dos stakeholders.  
    Resulta em documentação clara que serve como base para o desenvolvimento, evitando retrabalho e aumentando a satisfação do cliente.
@@ -12,12 +12,12 @@
    A fase de aprovação dos requisitos é fundamental, pois garante que todas as partes interessadas concordem com os objetivos e escopo do projeto.  
    Essa aprovação ajuda a alinhar expectativas e autorizar os recursos necessários.
 
-3. **Monitoramento e Encerramento**  
+3. [**Monitoramento e Encerramento**](https://github.com/T-TheV/ciclo_projetos_software/tree/main/monitoramento_encerramento)  
    O monitoramento acontece durante a execução do projeto, assegurando que prazos, escopo e orçamento estejam sendo cumpridos.  
    Reuniões regulares e ferramentas de gestão de projetos são essenciais para manter a equipe informada sobre o progresso.  
    O encerramento envolve a análise do produto final em relação às metas estabelecidas, além de documentar lições aprendidas para projetos futuros.
 
-4. **Execução do Projeto**  
+4. [**Execução do Projeto**](https://github.com/T-TheV/ciclo_projetos_software/tree/main/execucao)  
    O ciclo de desenvolvimento é estruturado em várias fases: planejamento, análise de requisitos, design, implementação, testes, implantação e manutenção.  
    Cada fase possui atividades específicas e objetivos que contribuem para o sucesso do projeto.
 
